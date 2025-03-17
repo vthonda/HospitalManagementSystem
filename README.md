@@ -61,6 +61,10 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
+(or)
+```bash
+python manage.py runserver 0.0.0.0:8000
+```
 
 ### 5. Go to the website displayed on the terminal to view the website.
 
